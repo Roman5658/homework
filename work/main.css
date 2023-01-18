@@ -1,18 +1,28 @@
-p{
+a{
+    text-decoration: none;
+    color: blue;
+}
+h2{
     font-size: 25px;
+    color: green;
+}
+h1{
+    background: green;
+}
+p{
+    background: darkseagreen;
 }
 li{
-    font-size: 20px;
+    background: peachpuff;
 }
-b{
-    font-size: 25px;
+ul{
+    background: antiquewhite;
 }
+
 img{
     width: 300px;
 }
-p{
- background: gold;
-}
+
 p{
    max-width: 400px;
 }
