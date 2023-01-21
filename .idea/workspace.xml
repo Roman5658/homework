@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f1720df-bfd6-4a5a-b82e-1489bea9d7ea" name="Changes" comment="Homework">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework2/blue blocks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/blue blocks/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/blue blocks/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/blue blocks/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/cards1/indexcards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/cards1/maincards.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/blue blocks/index-cards.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +67,7 @@
       <updated>1674305012786</updated>
       <workItem from="1674305028493" duration="1584000" />
       <workItem from="1674312205527" duration="112000" />
-      <workItem from="1674316968842" duration="2389000" />
+      <workItem from="1674316968842" duration="18142000" />
     </task>
     <task id="LOCAL-00001" summary="Homework">
       <created>1674306561516</created>
@@ -79,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674317687585</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework">
+      <created>1674321797308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674321797308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
