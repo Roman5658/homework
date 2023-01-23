@@ -1,0 +1,30 @@
+.Father{
+    display: flex;
+    height: 90vh;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.box1, .box2, .box3{
+    padding: 15px;
+    font-size: 17px;
+    border: 1px solid #2f2f2f;
+    height: fit-content;
+    width: fit-content;
+}
+
+.button{
+    display: flex;
+    padding: 15px;
+    font-size: 15px;
+    border: 1px solid #2f2f2f;
+    height: fit-content;
+    width: fit-content;
+
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+

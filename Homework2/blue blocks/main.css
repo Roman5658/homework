@@ -1,84 +1,98 @@
 body{
-    margin: 0;
+    width: 100vw;
+    height: 100vh;
+
 }
+
 .father{
-    width: 100%;
-    height: 350px;
-    background: #e8e6e6;
-    display: flex;
-    gap: 30px;
-    justify-content: center;
-    align-content: center;
-    flex-wrap: wrap;
+    /*width: 100%;*/
+    /*height: 100%;*/
+    /*background: silver;*/
 
-
-
-}
-.box {
-    width: 300px;
-    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 30px;
+    overflow: auto;
 
+}
+
+.box {
+    width: 50%;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .box:nth-child(1) {
-    background: #64a5a8;
+    background: burlywood;
+}
+
+
+.gad{
+    /*width: 51px;*/
+    /*height: 200px;*/
+    /*background: silver;*/
+
+    display: flex;
+    /*margin: 0 -5px;*/
+    justify-content: center;
+    align-items: center;
+    padding-left: 250px;
+    padding-right: 250px;
+
+}
+
+.mis {
+    width: 700px;
     height: 200px;
-
-}
-
-.box:nth-child(2) {
-    background: #64a5a8;
-
-}
-.box:nth-child(3) {
-    background: #64a5a8;
-
-}
-.box:nth-child(4) {
-    background: #64a5a8;
-
-}
-.box:nth-child(5) {
-    background: #64a5a8;
-
-}
-.box:nth-child(6) {
-    background: #64a5a8;
-
-}
-.box:nth-child(7) {
-    background: #64a5a8;
-
-}
-.box:nth-child(8) {
-    background: #64a5a8;
-
-}
-
-.box page{
-    width: 100%;
-    height: 350px;
     display: flex;
     justify-content: center;
+    align-items: center;
+    background: rosybrown;
+    flex: 1 1 auto;
+    margin: 0 5px;
 }
 
-.box page{
+.mis:nth-child(2) {
+    background: rosybrown;
+}
+
+.mis:nth-child(3) {
+    background: rosybrown;
+}
+
+.mis:nth-child(4) {
+    background: rosybrown;
+}
+
+
+.rip{
+    /*width: 100%;*/
+    height: 400px;
+    /*background: silver;*/
+
+    display: flex;
+    justify-content: center;
     align-items: center;
 }
 
-.Page{
-    width: 100%;
-    height: 200px;
-    background: #e8e6e6;
+.kos {
+    width: 50%;
+    height: 300px;
     display: flex;
-    gap: 30px;
     justify-content: center;
-    align-content: center;
-    flex-wrap: wrap;
-    border: 5px solid #c4daef;
-    border-radius: 30px;
+    align-items: center;
+
+    background: green;
+    color: black;
 }
+
+.kos:nth-child(5) {
+    background: green;
+
+}
+
+
+
+
