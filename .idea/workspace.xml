@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f1720df-bfd6-4a5a-b82e-1489bea9d7ea" name="Changes" comment="Homework">
-      <change afterPath="$PROJECT_DIR$/Homework2/blue blocks/flex.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework2/blue blocks/blocks.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework2/blue blocks/index-cards.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/blue blocks/index-cards.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework2/blue blocks/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/blue blocks/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework2/blue blocks/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework2/blue blocks/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework2/blue blocks/main.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
