@@ -1,0 +1,99 @@
+.registration-form {
+    width: 350px;
+    margin: 0 auto;
+    padding: 30px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.registration-form h2 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.registration-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.registration-form label {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.registration-form input[type="text"],
+.registration-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #fafafa;
+}
+
+.registration-form button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #0095f6;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.or-divider {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.divider-line {
+    flex: 1;
+    height: 1px;
+    background-color: #ccc;
+}
+
+.or-text {
+    padding: 0 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ccc;
+    text-transform: uppercase;
+}
+
+.facebook-login {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #3b5998;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.forgot-password-link {
+    font-size: 14px;
+    color: #00376b;
+    text-decoration: none;
+    text-align: center;
+}
+
+.forgot-password-link:hover {
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+}
+h2{
+    border: 1px solid #0088ff;
+    font-family: Dialog, serif;
+    border-radius: 5px;
+}

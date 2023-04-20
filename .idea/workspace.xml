@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f1720df-bfd6-4a5a-b82e-1489bea9d7ea" name="Changes" comment="Homework3">
-      <change beforePath="$PROJECT_DIR$/homework3/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework3/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/hw4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw4/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KdWaGR2eQ4JfSh7i8GVxxF2ClC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,6 +40,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -48,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\IdeaProjects\homework\hw4" />
       <recent name="C:\Users\Admin\IdeaProjects\homework" />
       <recent name="C:\Users\Admin\IdeaProjects\homework\Homework2\blue blocks" />
     </key>
@@ -66,6 +71,9 @@
       <workItem from="1674343171032" duration="551000" />
       <workItem from="1674405935327" duration="20330000" />
       <workItem from="1674664324647" duration="1283000" />
+      <workItem from="1681766073624" duration="2879000" />
+      <workItem from="1681934844359" duration="636000" />
+      <workItem from="1682007165639" duration="851000" />
     </task>
     <task id="LOCAL-00001" summary="Homework">
       <created>1674306561516</created>
