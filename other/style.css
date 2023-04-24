@@ -1,0 +1,104 @@
+/* CSS стили для страницы оценки пользователей */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.users {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.user {
+    margin: 10px;
+    padding: 20px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.user h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.ratings {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.ratings p {
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+.rating-btn {
+    font-size: 24px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+.rating-btn:hover {
+    background-color: #3e8e41;
+}
+
+.rating-value {
+    font-size: 24px;
+    margin: 0 20px;
+}
+
+.result-btn {
+    font-size: 24px;
+    background-color: #008CBA;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.result-btn:hover {
+    background-color: #007A8C;
+}
+
+.results {
+    display: none;
+    margin-top: 30px;
+}
+
+.results h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.result {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.result p {
+    margin-right: 20px;
+}
+
+.result-value {
+    font-size: 18px;
+    margin-left: 10px;
+}
